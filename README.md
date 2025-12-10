@@ -1,32 +1,64 @@
-# Hi, I'm Mansi 👋  
-**Electronics & Communication Engineering | Aspiring Software Engineer | Learning Python & Automation**
+# Hi, I'm Mansi Arya 👋  
+Aspiring Software & VLSI Engineer | ECE Undergraduate | PLC • Python • Verilog • Git
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech student at **BTKIT Dwarahat**
-- 💡 Interested in: Software Development, Automation, Linux, VLSI Basics
-- 🌱 Currently learning: **Python, Git, GitHub, Data Structures, Automation**
-- 🎯 Goal: To become a software engineer and work on impactful projects
+## 🌟 About Me
+- 🎓 B.Tech in Electronics & Communication Engineering (BTKIT Dwarahat)  
+- 🔧 Skilled in **PLC automation, VLSI design, and embedded systems**
+- 💻 Strong foundation in **C, C++, Python, Verilog**
+- 🌱 Currently learning: **DSA, GitHub projects, VLSI tools, Python automation**
+- 🎯 Goal: To become a software engineer and contribute to impactful engineering solutions
 
 ---
 
-## 🛠️ Skills
-**Languages:** C, C++, Python  
-**Tools & Tech:** Git, GitHub, VS Code, Linux (basic), MATLAB, Arduino  
-**Domains:** ECE, Control Systems, Basic VLSI, Automation
+## 🛠️ Technical Skills
+
+### **Programming**
+- C, C++, Python, Verilog
+
+### **Hardware & VLSI Tools**
+- PLC (Programmable Logic Controller)  
+- Cadence Virtuoso  
+- Xilinx Vivado  
+- Circuit Simulation
+
+### **Software**
+- MATLAB  
+- Git & GitHub  
+- Linux (basics)
+
+### **Domains**
+- VLSI Design  
+- Control Systems  
+- Communication Engineering  
+
+### **Soft Skills**
+- Teamwork • Leadership • Communication
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **Python Automation Practice**  
-  Automation scripts created while learning Python
+## 📚 Certifications
+- PLC Programming (4-week hands-on training)  
+- Ethical Hacking & Penetration Testing – CDAC  
+- Python Programming (4-week internship)  
+- Data Structures & Algorithms (Problem-solving based)  
+- Git & GitHub – Version Control Certification  
+- VLSI Designing – Cadence Virtuoso & Verilog HDL
 
-- 🔹 **Git Learning Projects**  
-  Basic Git commands & practice repositories
+---
 
-- 🔹 **ECE Mini Projects**  
-  College assignments, basic circuits, simulations (upload more soon)
+## 📌 Projects
+
+### 🔹 **PLC-Based Projects**
+- **Automatic Street Light System** – Automated lighting control using PLC for energy efficiency  
+- **Traffic Light Control System** – PLC-controlled signal timing for a four-way junction  
+- **Smart Home Automation System** – PLC-based appliance and lighting automation  
+
+### 🔹 **VLSI-Based Projects**
+- **4-Bit Ripple Carry Adder (Cadence Virtuoso)** – Transistor-level digital design  
+- **4-Bit ALU (Cadence Virtuoso)** – Implemented arithmetic and logic operations using CMOS  
+- **8-Bit Booth’s Multiplier (Verilog)** – RTL design and verification of Booth’s algorithm  
 
 ---
 
@@ -36,13 +68,13 @@
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** *Add your LinkedIn link here*
-- **Email:** *your email here*
+- **LinkedIn:** *(add your link here)*  
+- **GitHub:** https://github.com/MANSIARYA123  
+- **Email:** mansiarya702@gmail.com  
 
 ---
 
-Thank you for visiting my profile 😊
-
+### 💬 Thanks for visiting my profile!
 
 <!--
 **MANSIARYA123/MANSIARYA123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
