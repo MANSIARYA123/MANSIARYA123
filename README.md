@@ -68,7 +68,7 @@ Aspiring Software & VLSI Engineer | ECE Undergraduate | PLC • Python • Veril
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** *(add your link here)*  
+- **LinkedIn:** https://www.linkedin.com/in/mansi-arya-0760b9263?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bl5Uf4dLBT0ymgjWeEhS3tw%3D%3D 
 - **GitHub:** https://github.com/MANSIARYA123  
 - **Email:** mansiarya702@gmail.com  
 
